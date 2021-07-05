@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lesson9kadai",
+"productVersion": "0.1",
+"dataUrl": "Lno9kadai.data.unityweb",
+"wasmCodeUrl": "Lno9kadai.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lno9kadai.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}
